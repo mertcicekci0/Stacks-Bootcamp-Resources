@@ -1,8 +1,12 @@
 # Stacks-Bootcamp-Resources
-```
-flowchart TD
-    A[Bitcoin Nedir?] --> B[Blockchain Yapısı]
-    B --> C[Proof of Work (PoW)]
-    C --> D[Bitcoin Madenciliği]
-    D --> E[Bitcoin’in Güvenliği ve Sınırlamaları]
+````
+mermaid
+graph TD
+  A(Bitcoin) --> B(Bitcoin Fundamentals)
+  B --> C(Proof-of-Work)
+  C --> D(Bitcoin Blockchain)
+  D --> E(Transaction Validation)
+  E --> F(Block Creation)
+  F --> G(Blockchain Security)
+  G --> H(Bitcoin Network)
 ```
