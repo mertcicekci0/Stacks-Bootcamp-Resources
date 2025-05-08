@@ -1,8 +1,6 @@
 # Stacks-Bootcamp-Resources
-```
 flowchart TD
-    A[User Transaction] --> B[Stacks Blockchain (Clarity Contracts)]
-    B --> C[Proof of Transfer Mechanism (PoX)]
-    C --> D[Bitcoin Blockchain (Anchored Tx Info)]
-```
-//fixlemek lazım bozuk 
+    A[Bitcoin Nedir?] --> B[Blockchain Yapısı]
+    B --> C[Proof of Work (PoW)]
+    C --> D[Bitcoin Madenciliği]
+    D --> E[Bitcoin’in Güvenliği ve Sınırlamaları]
