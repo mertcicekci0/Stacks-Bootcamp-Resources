@@ -5,3 +5,4 @@ flowchart TD
     B --> C[Proof of Transfer Mechanism (PoX)]
     C --> D[Bitcoin Blockchain (Anchored Tx Info)]
 ```
+//fixlemek lazım bozuk 
